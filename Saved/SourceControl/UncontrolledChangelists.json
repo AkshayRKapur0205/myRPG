@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Locomotion/LocomaotionBlendSpace1D.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendedSpace1D.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/ThirdPerson/Input/Actions/IA_crouched.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Assasination/Ue4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Assasination/Ue4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/3H/IWTW8LV0XEDWD7PZ3W5H02.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Assasination/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Assasination/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Assasination/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Blueprints/BP_Dummy.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Blueprints/BPI_Assasination.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Assasination/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/UI/WB_AssasinatePrompt.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/BQ/S128L8CJXR84LVP9A1IGK0.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/ThirdPerson/Input/Actions/IA_Assasin.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"C:/Users/kapur/Documents/Unreal Projects/myRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue3.uasset"
+			]
+		}
+	]
+}
